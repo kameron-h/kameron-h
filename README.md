@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
+- I’m interested in web development.
+- I’m currently learning Java, JavaScript, HTML/CSS, React.jsx, Bootstrap, RESTful APIs, and other tools/technologies.
+- I’m a Junior in college at the moment.
+- How to reach me: I am on LinkedIn at https://www.linkedin.com/in/kameron-h/ (Personal email and/or phone # can be provided on request)
+
 <!--
 **kameron-h/kameron-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
