@@ -1,4 +1,4 @@
-![CEASEFIRE NOW!](https://img.shields.io/badge/CEASEFIRE_NOW!-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
+![CEASEFIRE NOW](https://img.shields.io/badge/CEASEFIRE_NOW-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 ### Hi there 👋
 
 - Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
