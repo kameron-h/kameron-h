@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 - Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
-- I’m interested in web & mobile development.
-- I’m a Junior in college at the moment.
+- I’m an aspiring Full-Stack Web Developer.
+- I’m a Junior studying Computer Science at Florida International University.
 - How to reach me: I am on LinkedIn at https://www.linkedin.com/in/kameron-h/
 
 <!--
