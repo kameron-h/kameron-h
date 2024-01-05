@@ -1,8 +1,8 @@
 ### Hi there 👋
+![CEASEFIRE NOW!](https://img.shields.io/badge/CEASEFIRE_NOW!-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 
 - Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
-- I’m interested in web development.
-- I’m currently learning Java, JavaScript, HTML/CSS, React.jsx, Bootstrap, RESTful APIs, and other tools/technologies.
+- I’m interested in web & mobile development.
 - I’m a Junior in college at the moment.
 - How to reach me: I am on LinkedIn at https://www.linkedin.com/in/kameron-h/
 
