@@ -4,7 +4,7 @@
 - Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
 - I’m an aspiring Full-Stack Web Developer.
 - I’m a Junior studying Computer Science at Florida International University.
-- How to reach me: I am on LinkedIn at https://www.linkedin.com/in/kameron-h/
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kameron-h/).
 
 <!--
 **kameron-h/kameron-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
