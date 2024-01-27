@@ -1,4 +1,4 @@
-[![CeasefireNow](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 ### Hi there 👋
 
 - Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
