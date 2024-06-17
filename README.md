@@ -2,6 +2,7 @@
 # Introduction
 
 My name is Kameron, I’m an aspiring Full-Stack Web Developer in my Junior year studying Computer Science at Florida International University, and I expect to graduate in Fall 2025. I love all things web development ❤️
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kameron-h/)!
 
 # Languages & Tools:
