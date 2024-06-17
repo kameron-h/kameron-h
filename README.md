@@ -6,7 +6,8 @@
 - I’m a Junior studying Computer Science at Florida International University.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kameron-h/).
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,java,c,swift,nodejs,supabase,figma,vite,wordpress,vscode,eclipse,replit)](https://skillicons.dev)
+# Languages & Tools:
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,tailwind,bootstrap,java,c,swift,supabase,figma,vite,wordpress,vscode,eclipse,replit)](https://skillicons.dev)
 <!--
 **kameron-h/kameron-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
