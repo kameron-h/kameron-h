@@ -1,10 +1,8 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-### Hi there 👋
+# Introduction
 
-- Hi, I’m @kameron-h AKA Kameron. He/Him/His pronouns.
-- I’m an aspiring Full-Stack Web Developer.
-- I’m a Junior studying Computer Science at Florida International University.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/kameron-h/).
+My name is Kameron, I’m an aspiring Full-Stack Web Developer in my Junior year studying Computer Science at Florida International University, and I expect to graduate in Fall 2025. I love all things web development ❤️
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kameron-h/)!
 
 # Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,tailwind,bootstrap,java,c,swift,supabase,figma,vite,wordpress,vscode,eclipse,replit)](https://skillicons.dev)
