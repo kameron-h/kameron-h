@@ -6,7 +6,7 @@ My name is Kameron (He/Him/His), I’m an aspiring Full-Stack Web Developer in m
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kameron-h/)!
 
 # Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,tailwind,bootstrap,java,c,swift,supabase,figma,vite,wordpress,vscode,eclipse,replit,xcode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,tailwind,bootstrap,java,c,swift,supabase,figma,vite,wordpress,vscode,eclipse,replit)](https://skillicons.dev)
 <!--
 **kameron-h/kameron-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
