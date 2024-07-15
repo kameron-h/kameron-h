@@ -1,7 +1,7 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 # Introduction
 
-My name is Kameron (He/Him/His), I’m an aspiring Full-Stack Web Developer in my Junior year studying Computer Science at Florida International University, and I expect to graduate in Fall 2025. I love all things web development ❤️
+My name is Kameron (He/Him/His), I’m an aspiring Full-Stack Web Developer studying Computer Science at Florida International University, and I expect to graduate in Fall 2025. I love all things web development ❤️
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kameron-h/)!
 
